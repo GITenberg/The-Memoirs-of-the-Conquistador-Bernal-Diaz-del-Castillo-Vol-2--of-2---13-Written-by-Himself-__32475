@@ -1,0 +1,40 @@
+_repo: The-Memoirs-of-the-Conquistador-Bernal-Diaz-del-Castillo-Vol-2--of-2---13-Written-by-Himself-__32475
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Lockhart, John Ingram
+    gutenberg_agent_id: '35869'
+    url: http://www.gutenberg.org/2009/agents/35869
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Díaz del Castillo, Bernal
+    aliases:
+    - Castillo, Bernal Díaz del
+    - Diaz del Castillo, Bernal
+    - Díaz del Castillo, Bernardo
+    - Del Castillo, Bernal Díaz
+    - Díaz, Bernal
+    birthdate: 1496
+    deathdate: 1584
+    gutenberg_agent_id: '35868'
+    url: http://www.gutenberg.org/2009/agents/35868
+    wikipedia: http://en.wikipedia.org/wiki/Bernal_D%C3%ADaz_del_Castillo
+description: ''
+gutenberg_issued: '2010-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32475'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1201'
+- !lcsh 'Mexico -- History -- Conquest, 1519-1540'
+title: "The Memoirs of the Conquistador Bernal Diaz del Castillo, Vol 2 (of 2)\r\n\
+  Written by Himself Containing a True and Full Account of the Discovery and Conquest\
+  \ of Mexico and New Spain."
+url: http://www.gutenberg.org/ebooks/32475
